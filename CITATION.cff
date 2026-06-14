@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Algorithm Experiment Manager
+message: "If this Codex Skill helps your research experiment management, please cite it as software."
+type: software
+authors:
+  - family-names: Zhang
+    given-names: Zongyu
+abstract: "A general Codex Skill for planning, recording, comparing, reviewing, archiving, and tracking reproducible research algorithm experiments."
+version: 0.1.0
+date-released: 2026-06-14
+license: MIT
+repository-code: "https://github.com/ACA-ZZY/algorithm-experiment-manager"
+keywords:
+  - codex-skill
+  - research
+  - algorithm-experiments
+  - reproducibility
+  - experiment-management
